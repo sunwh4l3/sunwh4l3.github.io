@@ -25,7 +25,43 @@ workbox.core.clientsClaim();
  * requests for URLs in the manifest.
  * See https://goo.gl/S9QRab
  */
-self.__precacheManifest = [].concat(self.__precacheManifest || []);
+self.__precacheManifest = [
+  {
+    "url": "webpack-runtime-776713e26ebef0696519.js"
+  },
+  {
+    "url": "styles.8adb1dc00115630d812f.css"
+  },
+  {
+    "url": "framework-71a91a8132c4a176c255.js"
+  },
+  {
+    "url": "app-bbb94b2b0ec904a22a37.js"
+  },
+  {
+    "url": "offline-plugin-app-shell-fallback/index.html",
+    "revision": "9408c58962625790220df85c91a27960"
+  },
+  {
+    "url": "static/webfonts/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc4.woff2"
+  },
+  {
+    "url": "static/webfonts/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2"
+  },
+  {
+    "url": "static/webfonts/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+  },
+  {
+    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-3c26d4b7e3608ed0ece4.js"
+  },
+  {
+    "url": "polyfill-cd840d73727c2e366b63.js"
+  },
+  {
+    "url": "manifest.webmanifest",
+    "revision": "dfe55324581af12b53444d76945f6e2f"
+  }
+].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerRoute(/(\.js$|\.css$|static\/)/, new workbox.strategies.CacheFirst(), 'GET');
