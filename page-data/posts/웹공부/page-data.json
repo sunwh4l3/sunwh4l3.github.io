@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-category-template-js",
-    "path": "/posts/웹공부",
-    "result": {"pageContext":{"currentCategory":"웹공부","categories":["All","블로그","회고","웹공부"],"edges":[{"node":{"id":"28d5041d-7d4b-55c8-a089-214d54ba9551","excerpt":"🤔 목적 css를 진짜 많이 얕봤다.. flutter를 이용해서 UI 구현해내는 일에 이제 익숙해졌기 때문에 스타일링 하는 것은 진짜 가볍게 여겼다가 큰코 다쳤다. 이번에 겸손한 마음으로 css 기초부터 반응형으로 레이아웃을 잡는 여러 좋은 방법들에 대해 조사해봤고 마지막으로 간단하게 github project를 따라하며 실습을 진행했다. 📗 참고 자료 poiemaweb 튜토리얼 flex box로 만들 수 있는 10가지 레이아웃(네이버 D2) 📦 Box Sizing  브라우저는 박스모델의 정보를 근거로 렌더링을 진행한다. 여기서 width와 height는 박스의 전체 사이즈를 말하는 것이 아니라 파란색 영역인 contents 영역의 너비와 높이만을 의미한다. 이 말인 즉슨 만일 width 100%를 주고 padding이나 border 값을 주면 이 되어 box가 예상했던 공간 밖으로 삐져나오게 된다. 이 상태에서 박스의 사이즈를 제대로 측정하려면 contents 너비 + 양쪽 pa…","fields":{"slug":"/css-layout/"},"frontmatter":{"categories":"웹공부","title":"어렵지 않게 CSS 레이아웃 잡기","date":"July 14, 2020"}},"next":null,"previous":{"fields":{"slug":"/why-dev-blog/"}}}]}},
-    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}

@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"왜 개발 블로그를 하시나요?","categories":"블로그 회고"},"fields":{"slug":"/why-dev-blog/"}}},{"node":{"frontmatter":{"title":"어렵지 않게 CSS 레이아웃 잡기","categories":"웹공부"},"fields":{"slug":"/css-layout/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"(알고리즘) Disjoint Set 구조와 Union Find 알고리즘","categories":"알고리즘"},"fields":{"slug":"/union-find/"}}}]}}}
