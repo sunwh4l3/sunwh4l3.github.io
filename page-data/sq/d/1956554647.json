@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"(알고리즘) Disjoint Set 구조와 Union Find 알고리즘","categories":"알고리즘"},"fields":{"slug":"/union-find/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"test","categories":"ctf featured"},"fields":{"slug":"/ctf_pwn_test/"}}}]}}}

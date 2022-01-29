@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-category-template-js",
-    "path": "/posts/알고리즘",
-    "result": {"pageContext":{"currentCategory":"알고리즘","categories":["All","알고리즘"],"edges":[{"node":{"id":"70df9d94-85b3-548a-95f4-9cdb30df550a","excerpt":"Disjoint-set 구조와 Union-Find 알고리즘이란? Disjoint set 이란 연결이 끊어진 원소들의 집합을 의미 한다. 이 데이터 구조를 위해서 Union-Find 알고리즘이 2가지 주요한 operation을 제공한다. Find : 어떤 원소가 어느 집합에 있는지 찾아준다. 주로 두개의 element가 같은 집합에 있는지 확인하는데 사용된다. Union : 2개의 집합을 하나의 집합으로 합쳐준다. 이 알고리즘은 Cycle을 찾는데 아주 용이하다. Union-Find의 활용 코드 (사이클 찾기) 사진 위와 같은 그래프 일 때 사이클 여부를 Union-find를 이용해서 확인해보자! 주석을 확인하면 훨씬 이해가 빠를 것이다. 헷갈림 주의!! union을 하게 되면 같은 집합에 있는 원소의 child node가 같아지게 된다. 밑에 그림을 참고하자:) 사진 느낀점 내가 bfs로 짰을 때보다 훨씬 효율적인지는 모르겠지만 일단 굉장히 직관적이다. 두개의 집합을 합치는 방법도…","fields":{"slug":"/union-find/"},"frontmatter":{"categories":"알고리즘","title":"(알고리즘) Disjoint Set 구조와 Union Find 알고리즘","date":"May 19, 2019"}},"next":null,"previous":null}]}},
-    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
